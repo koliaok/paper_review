@@ -1,1 +1,0 @@
-MAGIC.hpp only requires Eigen and QuadProg.hpp/QuadProg.cpp
